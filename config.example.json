@@ -1,0 +1,29 @@
+{
+  "service": "demo",
+  "client_id": "YOUR_CODEF_DEMO_CLIENT_ID",
+  "client_secret": "YOUR_CODEF_DEMO_CLIENT_SECRET",
+  "public_key": "YOUR_CODEF_PUBLIC_KEY (the full base64 string from the key management page)",
+  "cards": [
+    {
+      "name": "Lotte",
+      "organization": "0311",
+      "cycle_start_day": 11,
+      "extra_fields": [
+        "userName",
+        "identity",
+        "telecom",
+        "phoneNo"
+      ]
+    },
+    {
+      "name": "KB",
+      "organization": "0301",
+      "cycle_start_day": 1
+    },
+    {
+      "name": "Woori",
+      "organization": "0309",
+      "cycle_start_day": 1
+    }
+  ]
+}

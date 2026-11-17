@@ -1,0 +1,12 @@
+# Secrets and personal data
+config.json
+state.json
+summary.json
+apps-script-properties.txt
+widget-urls.txt
+widget-design.txt
+.env
+
+# Python
+__pycache__/
+*.pyc
